@@ -15,7 +15,7 @@ re (Regular Expressions)
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/pdf-resume-parser.git
+git clone https://github.com/PRATHAMAHUJA001/pdf-resume-parser.git
 cd pdf-resume-parser
 
 Usage
